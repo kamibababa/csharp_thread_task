@@ -1,0 +1,14 @@
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.exe
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.deps.json
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.runtimeconfig.json
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.dll
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.pdb
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.AssemblyInfoInputs.cache
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.AssemblyInfo.cs
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.csproj.CoreCompileInputs.cache
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.dll
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\refint\TaskDemo.dll
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.pdb
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.genruntimeconfig.cache
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\ref\TaskDemo.dll

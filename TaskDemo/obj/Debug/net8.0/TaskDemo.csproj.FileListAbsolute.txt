@@ -12,3 +12,4 @@ D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\refint\TaskDemo.
 D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.pdb
 D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.genruntimeconfig.cache
 D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\ref\TaskDemo.dll
+D:\Users\songbo\source\repos\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.sourcelink.json

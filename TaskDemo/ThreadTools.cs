@@ -3,28 +3,29 @@
 
 //class Program
 //{
-    
+
 //    static void Main()
 //    {
-     
 
-//        // 等待子线程执行完毕（通过 ManualResetEvent）
-//        ManualResetEvent done1 = new ManualResetEvent(false);
-//        ManualResetEvent done2 = new ManualResetEvent(false);
+//        //// 等待子线程执行完毕（通过 ManualResetEvent）
+//        //ManualResetEvent done1 = new ManualResetEvent(false);
+//        //ManualResetEvent done2 = new ManualResetEvent(false);
 
-//        // 包装任务，传入 ManualResetEvent 用于通知完成
-//        ThreadPool.QueueUserWorkItem(state => {
-//            PrintNumbers(state);
-//            done1.Set();
-//        }, "hello");//多个参数可以传一个自定义类型的对象
+//        //// 包装任务，传入 ManualResetEvent 用于通知完成
+//        //ThreadPool.QueueUserWorkItem(state =>
+//        //{
+//        //    PrintNumbers(state);
+//        //    done1.Set();
+//        //}, "hello");//多个参数可以传一个自定义类型的对象
 
-//        ThreadPool.QueueUserWorkItem(state => {
-//            PrintLetters(state);
-//            done2.Set();
-//        }, "nihao");
+//        //ThreadPool.QueueUserWorkItem(state =>
+//        //{
+//        //    PrintLetters(state);
+//        //    done2.Set();
+//        //}, "nihao");
 
-//        // 等待两个任务完成
-//        WaitHandle.WaitAll(new WaitHandle[] { done1, done2 });
+//        //// 等待两个任务完成
+//        //WaitHandle.WaitAll(new WaitHandle[] { done1, done2 });
 
 //        Console.WriteLine("所有线程池任务执行完毕。");
 //    }

@@ -18,14 +18,14 @@
 //            int a = 3;
 //            int b = 4;
 
-//            // 启动两个带返回值的任务
+//            启动两个带返回值的任务
 //            Task<int> addTask = Task.Run(() => Add(a, b));   // 3 + 4 = 7
 //            Task<int> mulTask = Task.Run(() => Multiply(a, b)); // 3 * 4 = 12
 
-//            // 并发等待两个任务完成
-//            await Task.WhenAll(addTask, mulTask);
+//            并发等待两个任务完成
+//           await Task.WhenAll(addTask, mulTask);
 
-//            // 获取结果并求和
+//            获取结果并求和
 //            int addResult = await addTask;
 //            int mulResult = await mulTask;
 //            int total = addResult + mulResult;

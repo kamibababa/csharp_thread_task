@@ -26,12 +26,12 @@
 //                ThreadPool.QueueUserWorkItem(state =>
 //                {
 //                    // 模拟任务工作时间
-//                    Thread.Sleep(1000);
+                  
 
 //                    // 每个任务中打印当前可用线程数
 //                    ThreadPool.GetAvailableThreads(out int availableWorkers, out int availableIO);
 //                    Console.WriteLine($"[线程池状态] 可用工作线程: {availableWorkers}, 可用IO线程: {availableIO}, 线程ID: {Thread.CurrentThread.ManagedThreadId}");
-
+//                    Thread.Sleep(10000);
 //                    countdown.Signal(); // 完成一个任务
 //                });
 //            }

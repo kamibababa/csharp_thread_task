@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\songbo\\.nuget\\packages\\": {},
+    "D:\\NuGetPackages": {},
     "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -17,7 +17,7 @@
       "projectUniqueName": "D:\\Users\\songbo\\source\\repos\\TaskDemo\\TaskDemo\\TaskDemo.csproj",
       "projectName": "TaskDemo",
       "projectPath": "D:\\Users\\songbo\\source\\repos\\TaskDemo\\TaskDemo\\TaskDemo.csproj",
-      "packagesPath": "C:\\Users\\songbo\\.nuget\\packages\\",
+      "packagesPath": "D:\\NuGetPackages",
       "outputPath": "D:\\Users\\songbo\\source\\repos\\TaskDemo\\TaskDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
